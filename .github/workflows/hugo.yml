@@ -26,4 +26,4 @@ jobs:
                 publish_dir: ./public
                 user_name: nhtithy
                 user_email: nazninhasan2004@gmail.com
-                publish_branch: main
+                publish_branch: master
