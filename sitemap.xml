@@ -5,8 +5,6 @@
     <loc>https://nhtithy.github.io/archives/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://nhtithy.github.io/post/</loc>
-  </url><url>
     <loc>https://nhtithy.github.io/about/</loc>
   </url><url>
     <loc>https://nhtithy.github.io/categories/</loc>
@@ -14,6 +12,8 @@
     <loc>https://nhtithy.github.io/gallery/</loc>
   </url><url>
     <loc>https://nhtithy.github.io/</loc>
+  </url><url>
+    <loc>https://nhtithy.github.io/post/</loc>
   </url><url>
     <loc>https://nhtithy.github.io/tags/</loc>
   </url>
