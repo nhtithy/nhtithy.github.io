@@ -17,7 +17,7 @@ Grid Layout Styles
     position: relative;
     /* Default: 1 tile wide */
     width: 100%;
-    padding-bottom: 100%; 
+    padding-bottom: 100%;
 }
 @media only screen and (min-width : 365px) {
     /* Tablet view: 2 tiles */
@@ -45,7 +45,7 @@ Grid Layout Styles
 Transition styles
 */
 .gallery.hover-transition figure,
-.gallery.hover-effect-zoom .img, 
+.gallery.hover-effect-zoom .img,
 .gallery:not(.caption-effect-appear) figcaption,
 .fancy-figure:not(.caption-effect-appear) figcaption {
     -webkit-transition: all 0.3s ease-in-out;
@@ -65,7 +65,7 @@ figure {
     left: 5px;
     right: 5px;
     top: 5px;
-    bottom: 5px;
+    bottom: 0px;
 }
 .gallery.hover-effect-grow figure:hover {
     transform: scale(1.05);
@@ -136,7 +136,7 @@ figcaption styles
 }
 .gallery.caption-position-bottom figcaption,
 .fancy-figure.caption-position-bottom figcaption {
-    padding: 5px;
+    padding: 20px 0 5px 0 !important;
 }
 .gallery.caption-effect-fade figure:not(:hover) figcaption,
 .gallery.caption-effect-appear figure:not(:hover) figcaption,
@@ -157,3 +157,8 @@ figcaption p {
     margin: auto; /* override style in theme */
 }
 
+.gallery figure:hover figcaption{
+
+    margin-bottom: 0px !important;
+
+}

@@ -6,26 +6,7 @@ title = 'Naznin Hasan'
 paginate = 5
 buildDrafts =  false
 #contentDir = "content/en"
-[params]
-env = "production"
-description = "Portfolio site , Place to express my hobbies"
-keywords = [ "Blog", "Portfolio", "PaperMod" ]
-author =  "Naznin Hasan"
-ShowReadingTime =  true
-ShowShareButtons =  true
-ShowPostNavLinks =  true
-ShowBreadCrumbs = true
-ShowCodeCopyButtons = false
-ShowWordCount = true
-ShowRssButtonInSectionTermList = true
-UseHugoToc = true
-disableSpecial1stPost = false
-disableScrollToTop = false
-hideSummary =  false
-showtoc = true
-tocopen = true
-
-
+enableEmoji = true
 
 
 

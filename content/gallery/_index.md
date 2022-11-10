@@ -2,4 +2,9 @@
 title: Gallery
 ---
 
-{{< gallery dir="/gallery" >}} {{< load-photoswipe >}}
+
+{{< photoswipe >}}
+
+{{< gallery dir="/gallery" >}}
+
+
