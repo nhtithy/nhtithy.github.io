@@ -20,6 +20,11 @@
 <noscript>
 <style>#theme-toggle,.top-link{display:none}</style>
 </noscript>
+<link rel=manifest href=/sw/manifest.webmanifest>
+<meta name=mobile-web-app-capable content="yes">
+<meta name=apple-mobile-web-app-title content="My PWA">
+<meta name=apple-mobile-web-app-status-bar-style content="black-translucent">
+<script>'serviceWorker'in navigator&&navigator.serviceWorker.register('/js/sw.js')</script>
 <meta property="og:title" content="Posts">
 <meta property="og:description" content="Portfolio site , Place to express my hobbies">
 <meta property="og:type" content="website">
