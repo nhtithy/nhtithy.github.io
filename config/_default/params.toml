@@ -23,6 +23,13 @@ text = "@nhtithy"
 icon = "/assets/images/avatar.png"
 iconHeight = 32
 
+
+[cover]
+image = ['/assets/images/cover.png']
+alt = "Cover"
+captions = "If you know how, you will know how"
+
+
 [assets]
 favicon = "/assets/icons/favicon/favicon.ico"
 favicon16x16 = "/assets/icons/favicon/favicon-16x16.png"
