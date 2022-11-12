@@ -1,0 +1,10 @@
+# blacklist
+/public
+/node_modules
+/.hugo_build.lock
+
+# No to igonre
+!/config/**
+!/layouts/**
+!/static/**
+!/content/**

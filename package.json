@@ -1,0 +1,31 @@
+{
+  "scripts": {
+    "mdtopdf":  "node mods/mdtopdf.js",
+    "build":  "npm run mdtopdf",
+    "hugo:serve": "hugo serve --disableFastRender",
+    "hugo:build": "hugo --minify",
+    "hugo": "hugo --minify --environment production",
+    "start": "npm run build && npm run hugo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhtithy/nhtithy.github.io.git"
+  },
+  "keywords": [
+    "hugo",
+    "portfolio",
+    "gallery"
+  ],
+  "author": "Naznin Hasan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nhtithy/nhtithy.github.io/issues"
+  },
+  "devDependencies": {
+    "cjs": "^0.0.11",
+    "hugo-bin": "^0.93.0"
+  },
+  "dependencies": {
+    "md-to-pdf": "^5.2.0"
+  }
+}

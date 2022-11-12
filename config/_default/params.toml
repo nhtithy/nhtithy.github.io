@@ -82,7 +82,7 @@ url = "https://nazninhasantithy.t.me/"
 
   [[profileMode.buttons]]
   name = "Resume"
-  url = "#"
+  url = "/downloads/resume.pdf"
 
 
   [editPost]
