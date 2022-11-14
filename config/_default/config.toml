@@ -1,4 +1,4 @@
-baseURL = "https://nhtithy.github.io"
+baseURL = "htps://nhtithy.github.io"
 
 
 # https://nhtithy.github.io
@@ -36,7 +36,7 @@ unsafe = true
     home = ["HTML", "RSS", "JSON" ]
 
 [permalinks]
-posts = '/:year/:month/:day/:title/'
+posts = '/:year/:month/:day/:filename/'
 
 [module]
   [[module.imports]]

@@ -27,6 +27,6 @@ url = "/downloads/resume.pdf"
 
 
 [editPost]
-    URL = "https://github.com/nhtithy/nhtithy.github.io/tree/master/content/bn"
+    URL = "https://github.com/nhtithy/nhtithy.github.io/tree/main/content/bn"
     Text = "Suggest Changes" # edit text
     appendFilePath = true
