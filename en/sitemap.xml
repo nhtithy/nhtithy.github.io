@@ -77,6 +77,16 @@
     <lastmod>2022-11-13T21:30:54+06:00</lastmod>
   </url><url>
     <loc>https://nhtithy.github.io/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://nhtithy.github.io/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nhtithy.github.io/en/about/"
+                />
   </url><url>
     <loc>https://nhtithy.github.io/en/gallery/</loc>
     <xhtml:link

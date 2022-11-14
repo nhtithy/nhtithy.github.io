@@ -101,6 +101,16 @@
                 />
   </url><url>
     <loc>https://nhtithy.github.io/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://nhtithy.github.io/en/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bn"
+                href="https://nhtithy.github.io/about/"
+                />
   </url><url>
     <loc>https://nhtithy.github.io/search/</loc>
     <xhtml:link
