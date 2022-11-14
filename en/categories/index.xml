@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Naznin Hasan</title>
+    <link>https://nhtithy.github.io/en/categories/</link>
+    <description>Recent content in Categories on Naznin Hasan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 13 Nov 2022 21:30:54 +0600</lastBuildDate><atom:link href="https://nhtithy.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>thoughts</title>
+      <link>https://nhtithy.github.io/en/categories/thoughts/</link>
+      <pubDate>Sun, 13 Nov 2022 21:30:54 +0600</pubDate>
+      
+      <guid>https://nhtithy.github.io/en/categories/thoughts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
