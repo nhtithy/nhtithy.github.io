@@ -1,0 +1,32 @@
+ [profileMode]
+enabled = true
+title = "নাজনীন হাসান তিথি"
+subtitle = "Student-Music lover"
+imageUrl = "/assets/images/avatar.png"
+imageWidth = 120
+imageHeight = 120
+imageTitle = "Avatar"
+
+[[profileMode.buttons]]
+name = 'গ্যালারী'
+url = '/gallery'
+
+[[profileMode.buttons]]
+name = 'পরিচিতি'
+url  = '/about'
+
+ [[profileMode.buttons]]
+  name = "পোষ্ট"
+  url = "/posts"
+
+[[profileMode.buttons]]
+name = "ডাউনলোড সিভি"
+url = "/downloads/resume.pdf"
+
+
+
+
+[editPost]
+    URL = "https://github.com/nhtithy/nhtithy.github.io/tree/master/content/bn"
+    Text = "Suggest Changes" # edit text
+    appendFilePath = true

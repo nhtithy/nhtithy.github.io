@@ -1,5 +1,5 @@
 ---
-title: About Me
+title: পরিচিতি
 searchHidden: true
 url: /about
 showToc: false
@@ -39,11 +39,11 @@ __Chuadanga Govt. college, Chuadanga.__
 - BA
 
 ` 2020 - 2022`
-__Chuadanga Govt. college, Chuadanga.
+__Chuadanga Govt. college, Chuadanga.__
 
 - HSC
 
-`2013 - 2020`
+`2016 - 2020`
 __Jhinuk high school, Chuadanga__
 
 - The very Begining
@@ -59,7 +59,6 @@ __Jhinuk high school, Chuadanga__
                   
 
 
-## Connection 
 
 <img href="https://img.shields.io/badge/Github-F7DF1E?style=for-the-badge&logo=github&logoColor=black">
 

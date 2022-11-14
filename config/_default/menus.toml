@@ -1,23 +1,25 @@
+ 
 [[main]]
-identifier = "Post"
-name = "Post"
-url = "/post/"
+identifier = "post"
+name = "পোস্ট"
+url = "/posts/"
 weight = 5
 
 [[main]]
-identifier = "Categories"
-name = "Categories"
+identifier = "categories"
+name = "ক্যাটাগরিজ"
 url = "/categories/"
 weight = 10
 
 [[main]]
-identifier = "Tags"
-name = "Tags"
+identifier = "tags"
+name = "ট্যাগস"
 url = "/tags/"
 weight = 20
 
 [[main]]
-identifier = "Archives"
-name = "Archives"
-url = "/archives/"
-weight = 30
+identifier = "search"
+name = "সার্চ"
+url = "/search/"
+weight = 20
+

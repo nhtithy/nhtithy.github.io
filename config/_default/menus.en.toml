@@ -1,0 +1,23 @@
+[[main]]
+identifier = "post"
+name = "post"
+url = "/en/posts/"
+weight = 5
+
+[[main]]
+identifier = "categories"
+name = "categories"
+url = "/en/categories/"
+weight = 10
+
+[[main]]
+identifier = "tags"
+name = "tags"
+url = "/en/tags/"
+weight = 20
+
+[[main]]
+identifier = "search"
+name = "search"
+url = "/en/search/"
+weight = 30

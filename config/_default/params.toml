@@ -38,14 +38,7 @@ apple_touch_icon = "/assets/icons/apple/apple-touch-icon.png"
 safari_pinned_tab = "/assets/icons/apple/safari-pinned-tab.svg"
 
 
-[profileMode]
-enabled = true
-title = "Naznin Hasan Tithy"
-subtitle = "Student-Music lover"
-imageUrl = "/assets/images/avatar.png"
-imageWidth = 120
-imageHeight = 120
-imageTitle = "Avatar"
+
 
 [[socialIcons]]
 name = "facebook"
@@ -53,11 +46,11 @@ url = "https://facebook.com/nazninhasan"
 
 [[socialIcons]]
 name = "instagram"
-url = "https://instagram.com/"
+url = "https://instagram.com/nhtithy"
 
 [[socialIcons]]
 name = "tiktok"
-url = "https://facebook.com/nazninhasan"
+url = "https://tiktok.com/@naznin_hasan8"
 
 [[socialIcons]]
 name = "github"
@@ -72,29 +65,11 @@ name = "telegram"
 url = "https://nazninhasantithy.t.me/"
 
 
-  [[profileMode.buttons]]
-  name = 'Gallery'
-  url = '/gallery'
-
-  [[profileMode.buttons]]
-  name = 'About Me'
-  url  = '/about'
-
-  [[profileMode.buttons]]
-  name = "Resume"
-  url = "/downloads/resume.pdf"
-
-
-  [editPost]
-  URL = "https://github.com/nhtithy/nhtithy.github.io/content"
-  Text = "Suggest Changes"
-  appendFilePath = true
-
-  [fuseOpts]
-  isCaseSensitive = false
-  shouldSort = true
-  location = 0
-  distance = 1_000
-  threshold = 0.4
-  minMatchCharLength = 0
-  keys = [ "title", "permalink", "summary", "content"]
+[fuseOpts]
+isCaseSensitive = false
+shouldSort = true
+location = 0
+distance = 1_000
+threshold = 0.4
+minMatchCharLength = 0
+keys = [ "title", "permalink", "summary", "content"]

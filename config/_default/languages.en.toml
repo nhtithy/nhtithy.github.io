@@ -1,0 +1,30 @@
+ 
+[profileMode]
+enabled = true
+title = "Naznin Hasan Tithy"
+subtitle = "Student-Music lover"
+imageUrl = "/assets/images/avatar.png"
+imageWidth = 120
+imageHeight = 120
+imageTitle = "Avatar"
+
+  [[profileMode.buttons]]
+  name = 'Gallery'
+  url = '/en/gallery'
+
+  [[profileMode.buttons]]
+  name = 'About Me'
+  url  = '/en/about'
+
+  [[profileMode.buttons]]
+  name = "Posts"
+  url = "/en/posts"
+
+[[profileMode.buttons]]
+  name = "Download Resume"
+  url = "/downloads/resume.pdf"
+
+[editPost]
+    URL = "https://github.com/nhtithy/nhtithy.github.io/tree/master/content/en"
+    Text = "Suggest Changes" # edit text
+    appendFilePath = true
