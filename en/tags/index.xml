@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Naznin Hasan</title>
-    <link>htps://nhtithy.github.io/en/tags/</link>
+    <link>https://nhtithy.github.io/en/tags/</link>
     <description>Recent content in Tags on Naznin Hasan</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Nov 2022 21:30:54 +0600</lastBuildDate><atom:link href="htps://nhtithy.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Nov 2022 21:30:54 +0600</lastBuildDate><atom:link href="https://nhtithy.github.io/en/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>hobby</title>
-      <link>htps://nhtithy.github.io/en/tags/hobby/</link>
+      <link>https://nhtithy.github.io/en/tags/hobby/</link>
       <pubDate>Sun, 13 Nov 2022 21:30:54 +0600</pubDate>
       
-      <guid>htps://nhtithy.github.io/en/tags/hobby/</guid>
+      <guid>https://nhtithy.github.io/en/tags/hobby/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theme</title>
-      <link>htps://nhtithy.github.io/en/tags/theme/</link>
+      <link>https://nhtithy.github.io/en/tags/theme/</link>
       <pubDate>Sun, 13 Nov 2022 21:30:54 +0600</pubDate>
       
-      <guid>htps://nhtithy.github.io/en/tags/theme/</guid>
+      <guid>https://nhtithy.github.io/en/tags/theme/</guid>
       <description></description>
     </item>
     
