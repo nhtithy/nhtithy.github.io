@@ -35,7 +35,7 @@ unsafe = true
     home = ["HTML", "RSS", "JSON" ]
 
 [permalinks]
-posts = '/:year/:month/:day/:filename/'
+posts = '/:year/:month/:day/:title/'
 
 [module]
   [[module.imports]]
