@@ -2,7 +2,8 @@
 /public
 /node_modules
 /.hugo_build.lock
-
+/.obsidian
+.obsidian
 # No to igonre
 !/config/**
 !/layouts/**
